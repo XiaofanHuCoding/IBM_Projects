@@ -63,3 +63,5 @@ This data set provides information to help you predict what behavior will help y
 - This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
 - The dataset was from the UCI Machine Learning Repository (Asuncion and Newman, 2007). It consists of several hundreds human cell sample records, each of which contains the values of a set of cell characteristics.
 - The SVM used for predicting results was evaluated by accuracy and confusion matrix.
+
+### k-Means

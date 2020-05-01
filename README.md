@@ -7,6 +7,15 @@
 4. Polynomial Regression
 5. Non-linear Regression
 6. K-Nearest Neighbors
+7. Decision Tree
+8. Logistic Regression
+9. Support Vector Machine (SVM)
+10. k-Means
+11. Agglomerative Clustering
+12. DBScan
+13. Content-based Recommendation System
+14. Collaborative Filtering on Movies
+15. Predicting Winning Basketball Team
 
 ## Project Details
 ### 1. Scraping and Analyzing Basketball Statistics
@@ -38,3 +47,14 @@
   - This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
   - The dataset was from a telecommunication provider and it has information about the customers. The goal is to predict which customers belong to which groups so the company could provider better service plans.
   - The model was built by using KNN. The model was evaluated by using accuracy parameter and it indicates that when k=38, the model has the best accuracy.
+
+### 7. Decision Tree
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The dataset was collected from a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug c, Drug x and Drug y.
+- I built a Decision Tree model to predict which types of patients should use what kind of drugs. The prediction action is 0.98 which indicates a very good match between prediction and test set.
+
+### 8. Logistic Regression
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The dataset was from a telecommunication company that can be used for predicting customer churn. This is a historical customer dataset where each row represents one customer. The data is relatively easy to understand, and you may uncover insights you can use immediately. Typically it is less expensive to keep customers than acquire new ones, so the focus of this analysis is to predict the customers who will stay with the company.
+This data set provides information to help you predict what behavior will help you to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.
+- A logistic regression model was built to predict customer churn. F1 score and log loss were used for model evaluation.

@@ -1,4 +1,4 @@
-# IBM_Project
+# IBM Project
 
 ## Project Directory:
 1. Scraping and Analyzing Basketball Statistics

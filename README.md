@@ -13,5 +13,10 @@
 
 ### 2. Simple Linear Regression
   - This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
-  - In this project, I used car fuel consumption/CO2 emission data from Canadian government and built simple regression model to predict cars' emission by using simple linear regression.
+  - In this project, I used car fuel consumption/CO2 emission data from Canadian government and built simple regression model to predict cars' emission.
+  - The results show a reasonable linear regression model can be built by using Engine size as an independent variable. I used Mean absolute error, Residual sum of square, and R2-score to evaluate the model.
+
+### 3. Multiple Linear Regression
+  - This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+  - In this project, I used car fuel consumption/CO2 emission data from Canadian government and built multiple regression model to predict cars' emission.
   - The results show a reasonable linear regression model can be built by using Engine size as an independent variable. I used Mean absolute error, Residual sum of square, and R2-score to evaluate the model.

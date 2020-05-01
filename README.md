@@ -11,7 +11,7 @@
 8. Logistic Regression
 9. Support Vector Machine (SVM)
 10. k-Means
-11. Agglomerative Clustering
+11. Agglomerative Clustering (Hierarchical)
 12. DBScan
 13. Content-based Recommendation System
 14. Collaborative Filtering on Movies
@@ -58,3 +58,8 @@
 - The dataset was from a telecommunication company that can be used for predicting customer churn. This is a historical customer dataset where each row represents one customer. The data is relatively easy to understand, and you may uncover insights you can use immediately. Typically it is less expensive to keep customers than acquire new ones, so the focus of this analysis is to predict the customers who will stay with the company.
 This data set provides information to help you predict what behavior will help you to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.
 - A logistic regression model was built to predict customer churn. F1 score and log loss were used for model evaluation.
+
+### 9. Support Vector Machine (SVM)
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The dataset was from the UCI Machine Learning Repository (Asuncion and Newman, 2007). It consists of several hundreds human cell sample records, each of which contains the values of a set of cell characteristics.
+- The SVM used for predicting results was evaluated by accuracy and confusion matrix.

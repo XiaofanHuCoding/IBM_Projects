@@ -83,3 +83,7 @@ This data set provides information to help you predict what behavior will help y
 ### 14. Collaborative Filtering on Movies
 - This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
 - The goal of this project is to design a movie recommendation system to the new customers based on the customers who are similar to the new customers.
+
+### 15. Predicting Winning Basketball Team
+- This is the final project from IBM Machine Learning with Python - A Practical Introduction course.
+- In this project, I used a number of machine learning techniques, including KNN Model, Decision Tree, SVM, Logistic Regression, to predict winning NCAA basketball teams.

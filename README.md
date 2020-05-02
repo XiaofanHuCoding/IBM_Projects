@@ -12,7 +12,7 @@
 9. Support Vector Machine (SVM)
 10. k-Means
 11. Agglomerative Clustering (Hierarchical)
-12. DBScan
+12. Density-Based Clustering (DB Scan)
 13. Content-based Recommendation System
 14. Collaborative Filtering on Movies
 15. Predicting Winning Basketball Team
@@ -65,3 +65,21 @@ This data set provides information to help you predict what behavior will help y
 - The SVM used for predicting results was evaluated by accuracy and confusion matrix.
 
 ### 10. k-Means
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The first part of the project is to help understanding of k-means method by using randomly generated data. The second part of the this project is to predict customer segmentation by using k-means model.
+
+### 11. Agglomerative Clustering (Hierarchical)
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The first part of the project is to help understanding of Hierarchical method by using randomly generated data. The second part of the this project is to use vehicle dataset predict a new car model belong to which group.
+
+### 12. Density-Based Clustering (DB Scan)
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The first part of the project is to help understanding of DB Scan method by using randomly generated data, the same dataset used for k-Means method. The second part of the this project is to use weather station data in Canada to group stations to a few groups.
+
+### 13. Content-based Recommendation System
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The goal of this project is to design a movie recommendation system to the customers based on their ratings.
+
+### 14. Collaborative Filtering on Movies
+- This is a practice project from IBM Machine Learning with Python - A Practical Introduction course.
+- The goal of this project is to design a movie recommendation system to the new customers based on the customers who are similar to the new customers.
